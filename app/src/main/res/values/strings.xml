@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Imc Legal</string>
+    <string name="obesoMorbito">Obesidade Morbita!!!</string>
+    <string name="obesoModerado">Obesidade Moderada!!</string>
+    <string name="obesoLeve">Obesidade Leve!</string>
+    <string name="normal">Normal</string>
+    <string name="abaixoDoNormal">Abaixo do peso normal!</string>
 </resources>
