@@ -74,11 +74,6 @@ class MainActivity : AppCompatActivity() {
 
         return resultado;
 
-//
-//        textView.text = resultado;
-//        textView2.text = imc.toString();
-//
-
     }
 
 }
